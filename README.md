@@ -1,4 +1,4 @@
-# Provincial Public Administration Employees Per 1000 Residents
+# [Provincial Public Administration Employees Per 1000 Residents](https://prov-government-employees-per-1000-residents.streamlit.app/)
 
 This repository contains data, computations and analysis for the number of provincial public administration employees per 1000 residents in different provinces across Canada. The rationale is to find a fair basis for comparing the number of employees across various provincial governments in Canada.
 
