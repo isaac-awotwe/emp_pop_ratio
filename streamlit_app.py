@@ -160,8 +160,8 @@ if add_sidebar=="Dashboard Description":
         
 This dashboard visualiazations for the number of provincial public administration employees per 1000 residents in different provinces across Canada. The rationale is to:
 
-    1. demosntrate the ability to automate Statistics Canada data acquisition instead of manually downlading CSV files from the website.
-    2. find a fair basis for comparing the number of employees in various provincial governments across Canada.
+1. demosntrate the ability to automate Statistics Canada data acquisition instead of manually downlading CSV files from the website.
+2. find a fair basis for comparing the number of employees in various provincial governments across Canada.
 
 ## Data Sources
 Two data series are used, both from Ststistics Canada. All data sources were pulled programatically (automatically using Python) from Statistics Canada's API called [**Web Data Services**](https://www.statcan.gc.ca/en/developers/wds). This demosntrates the ability to automate Statistics Canada data acquisition instead of manually downlading CSV files from the website.
