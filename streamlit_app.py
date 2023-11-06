@@ -109,7 +109,7 @@ if add_sidebar=="Alberta Metrics Only":
     fig.update_layout(title_text="Chart 1: Alberta Only", width=1200, height=600)
     
     # Set x-axis title
-    fig.update_xaxes(title_text="xaxis title")
+    fig.update_xaxes(title_text="REF_YEAR")
     
     # Set y-axes titles
     fig.update_yaxes(title_text="Alberta Public Administration Employees per 1000 Albertans",
